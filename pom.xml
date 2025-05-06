@@ -6,7 +6,7 @@
 
     <groupId>cal.demo</groupId>
     <artifactId>UneAppWeb</artifactId>
-    <version>1.0-SNAPSHOT</version>
+    <!-- <version>1.0-SNAPSHOT</version> -->
     <packaging>war</packaging>
 
     <name>Une app web, simplement</name>

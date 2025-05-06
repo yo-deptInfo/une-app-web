@@ -5,7 +5,7 @@
     <title>Accueil UneAppWeb</title>
 </head>
 <body>
-    <h1>Bienvenue sur UneAppWeb</h1>
-    <p>Accédez au servlet via <a href="demo">/demo</a></p>
+    <h1>Allo gang</h1>
+    <p>Une <a href="page bien faite">/demo</a></p>
 </body>
 
