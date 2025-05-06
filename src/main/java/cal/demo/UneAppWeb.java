@@ -16,7 +16,8 @@ public class UneAppWeb extends HttpServlet {
     @Override
     protected void doGet(HttpServletRequest request, HttpServletResponse response)
            throws ServletException, IOException {
-        response.setContentType("text/html;charset=UTF-8");
-        response.getWriter().write("<h1>Allo gang</h1>");
+        // response.setContentType("text/html;charset=UTF-8");
+        // response.getWriter().write("<h1>Allo gang</h1>");
+        response.sendRedirect(request.getContextPath() + "/techniques-informatique.html");
     }
 }
