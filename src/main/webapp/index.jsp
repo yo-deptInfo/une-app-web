@@ -1,16 +1,11 @@
-<%--
-  Created by IntelliJ IDEA.
-  User: yo
-  Date: 5/6/25
-  Time: 3:27 PM
-  To change this template use File | Settings | File Templates.
---%>
-<%@ page contentType="text/html;charset=UTF-8" language="java" %>
+<!DOCTYPE html>
 <html>
 <head>
-    <title>Title</title>
+    <meta charset="UTF-8">
+    <title>Accueil MonApp</title>
 </head>
 <body>
-
+    <h1>Bienvenue sur UneAppWeb</h1>
+    <p>Accédez au servlet via <a href="hello">/demo</a></p>
 </body>
-</html>
+
