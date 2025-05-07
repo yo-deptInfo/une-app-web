@@ -21,3 +21,4 @@ public class UneAppWeb extends HttpServlet {
         response.sendRedirect(request.getContextPath() + "/techniques-informatique.html");
     }
 }
+

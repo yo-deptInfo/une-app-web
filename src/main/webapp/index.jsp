@@ -6,6 +6,6 @@
 </head>
 <body>
     <h1>Allo gang</h1>
-    <p>Une <a href="page bien faite">/demo</a></p>
+    <p>Une <a href="/demo">page bien faite</a></p>
 </body>
 
