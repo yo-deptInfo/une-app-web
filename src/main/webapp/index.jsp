@@ -7,7 +7,7 @@
 <body>
     <h1>Allo gang</h1>
     <p>Une <a href="${pageContext.request.contextPath}/demo">page bien faite</a></p>
-    <p>Un <a href="${pageContext.request.contextPath}/declancheErreur">lien brisé</a></p>
+    <p>Un <a href="${pageContext.request.contextPath}/declancheErreur">lien provoquant une erreur</a></p>
 
 </body>
 
